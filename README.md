@@ -28,7 +28,7 @@ A stylish, functional calculator built with **React Native**. Supports basic and
 
 ```bash
 git clone https://github.com/your-username/react-native-calculator.git
-cd react-native-calculator
+cd Calculator_App
 ```
 
 ### 2. Install Dependencies
@@ -61,34 +61,9 @@ Then scan the QR code using the [Expo Go App](https://expo.dev/client) on your p
 
 ---
 
-## ✨ Screenshots
-
-| Basic Mode | Scientific Mode |
-|------------|-----------------|
-| ![Basic](./screenshots/basic.png) | ![Sci](./screenshots/sci.png) |
-
-> 📸 Add your screenshots in a `/screenshots` folder and update the paths accordingly.
-
----
-
-## 🙌 Contributing
-
-Pull requests welcome! For major changes, open an issue first to discuss what you’d like to change.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ## 👤 Author
 
-**Crislin Joseph**  
-React Native Developer, Minimalist UI Enthusiast, and Calculator Whisperer 😎  
+**Cliffin Joseph**    
 📍 Singapore
 
----
-
-> “Simple is better than complex. Clean is better than cluttered.”
